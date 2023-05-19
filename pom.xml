@@ -12,7 +12,7 @@
 
     <groupId>com.xingzheyi</groupId>
     <artifactId>petition-rpc</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
 
     <properties>
         <skipTests>true</skipTests>
